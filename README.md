@@ -11,7 +11,7 @@
 
 ## 💻 Languages:
 
-[![C++](https://img.shields.io/badge/c++-black?style=for-the-badge&logo=cplusplus)](https://github.com/RosmeriCcF)
+![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ## 💻 Development front-end:
 
@@ -31,10 +31,6 @@
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 	
-
-## 💻 OS:
-
-[![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)](https://github.com/RosmeriCcF)
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=RosmeriCcF&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
