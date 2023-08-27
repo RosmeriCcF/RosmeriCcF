@@ -1,3 +1,4 @@
+<h1 align="center">Hi everyone! <img src="https://github.com/RosmeriCcF" width="28px" alt="👋"></h1>
 <h1 align="center">Hola 👋, soy Rosmeri Ccanto</h1>
 <h3 align="center">Estudiante de ingeniería de software en la Universidad Nacional Mayor de San Marcos | Perú 🇵🇪</h3>
 
