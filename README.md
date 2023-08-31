@@ -1,11 +1,11 @@
-<h1 align="center">Hi everyone 👋, I'm Rosmeri Ccanto</h1>
+<h1 align="center">Hi 👋, I'm Rosmeri Ccanto</h1>
 <h3 align="center">Software engineering student at the Universidad Nacional Mayor de San Marcos | Peru 🇵🇪 </h3>
 
 ### 💫 About Me:
 🌱 I’m currently learning web development, mainly in frontend technologies<br>💬 Ask me rosmeri.ccanto.flores@gmail.com<br>⚡ I love playing soccer, riding a bike and doing volunteer work of any kind
 
 
-### 🌐 Socials:
+### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosmeri-gloria-ccanto-flores/) 
 
 
@@ -14,19 +14,16 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 
 ### 💻 Development front-end:
-
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white) 
 
 ### 💻 Data Base:
-
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 [![SQL](https://img.shields.io/badge/sql-black?style=for-the-badge&logo=mysql)](https://github.com/RosmeriCcF)
 
 ### 💻 Software:
-
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 ![Adobe Illustrator](https://img.shields.io/badge/adobeillustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white)
