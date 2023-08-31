@@ -7,6 +7,9 @@
 
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosmeri-gloria-ccanto-flores/) 
+<p align="left">
+<a href="https://linkedin.com/in/rosmeri-gloria-ccanto-flores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rosmeri Ccanto" height="30" width="40" /></a>
+</p>
 
 ### 💻 Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
