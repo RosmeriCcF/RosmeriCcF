@@ -1,15 +1,12 @@
 <h1 align="center">Hi 👋, I'm Rosmeri Ccanto</h1>
 <h3 align="center">Software engineering student at the Universidad Nacional Mayor de San Marcos | Peru 🇵🇪 </h3>
 
-### 💫 About Me:
 - 🌱 I’m currently learning web development, mainly in frontend technologies
 - 💬 Ask me rosmeri.ccanto.flores@gmail.com
 - ⚡ I love playing soccer, riding a bike and doing volunteer work of any kind
 
-
 ### 🌐 Connect with me:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/rosmeri-gloria-ccanto-flores/) 
-
 
 ### 💻 Languages:
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
