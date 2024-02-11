@@ -4,7 +4,7 @@
 
 
 ### 💻 Data analytics:
-[![My Skills](https://skillicons.dev/icons?i=py, &perline=8)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=py&perline=8)](https://skillicons.dev)
 
 
 ### 💻 Languages:
