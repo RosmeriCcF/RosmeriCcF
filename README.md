@@ -1,9 +1,11 @@
 <h1 align="center">Hi 👋, I'm Rosmeri Ccanto</h1>
 <h3 align="center">Software engineering student at UNMSM | Peru 🇵🇪 </h3>
 
-[![My Skills](https://skillicons.dev/icons?i=py,anaconda,cpp,azure&perline=8)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=html,css,bootstrap,sass,js,androidstudio&perline=8)](https://skillicons.dev)
-[![My Skills](https://skillicons.dev/icons?i=git,github,vscode,visualstudio,ai,figma,&perline=8)](https://skillicons.dev)
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=py,anaconda,cpp,azure,html,css,bootstrap,sass,js,androidstudiogit,github,vscode,visualstudio,ai,figma&perline=8" />
+  </a>
+</p>
 
 ### 📱 Conect with me:
 [![My Skills](https://skillicons.dev/icons?i=linkedin&perline=8)](https://www.linkedin.com/in/rosmeri-gloria-ccanto-flores/)
