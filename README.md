@@ -1,16 +1,16 @@
 <h1 align="center">Hi 👋, I'm Rosmeri Ccanto</h1>
-<h3 align="center">Software engineering student at the Universidad Nacional Mayor de San Marcos | Peru 🇵🇪 </h3>
+<h3 align="center">Software engineering student at UNMSM | Peru 🇵🇪 </h3>
 
-- 🌱 I am currently learning about data technologies
-- 💬 Ask me rosmeri.ccanto.flores@gmail.com
-- ⚡ I love playing soccer, riding a bike and doing volunteer work of any kind
-
+- 🌱 I am currently interested in data technologies.
 ### 🌐 Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/rosmeri-gloria-ccanto-flores" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="Rosmeri Ccanto" height="30" width="40" /></a>
 </p>
 
 ### 💻 Languages:
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) 
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
 ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)
