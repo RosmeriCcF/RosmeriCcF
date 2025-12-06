@@ -9,19 +9,6 @@
 
 ---
 
-'''### 📫 Conéctate conmigo:
-<p align="center">
-  <a href="https://www.linkedin.com/in/rosmeri-gloria-ccanto-flores/" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:ros.ccanto.flores.30@gmail.com" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
-  </a>
-</p>
-'''
-
----
-
 ### 🛠️ Stack Tecnológico:
 <p align="center">
   <!-- Tecnologías de programación -->
@@ -39,18 +26,4 @@
   </span>
 </p>
 
-
----
-
-### 📊 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RosmeriCcF&theme=radical&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RosmeriCcF&theme=radical&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</div>
-
----
-<p align="center">
-  <img src="https://i.gifer.com/VAyR.gif" width="30"/>  
-  <strong>Trabajando en nuevos proyectos de Análisis de Datos...</strong>
-</p>
 
