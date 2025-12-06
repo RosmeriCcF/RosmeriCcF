@@ -12,7 +12,7 @@
 ### 🛠️ Stack Tecnológico:
 <p align="center">
   <!-- Tecnologías de programación -->
-  <img src="https://skillicons.dev/icons?i=py,cpp,flutter,mysql,html,css,bootstrap,sass,js,androidstudio,git,github,vscode,visualstudio,ai,figma&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,cpp,flutter,mysql,html,css,bootstrap,sass,js,androidstudio,git,github,ai,figma&perline=8" />
   
   <!-- Espaciado -->
   <br>
