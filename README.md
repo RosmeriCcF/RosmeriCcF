@@ -3,11 +3,6 @@
   ¡Hola, soy Rosmeri Ccanto!  
 </h1>
 
-<p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1500&color=36BCF7&center=true&vCenter=true&width=600&height=50&lines=Estudiante+de+Ingeniería+de+Software+📚;Apasionada+por+los+Datos+📈;Automatización+y+RPA+🚀;UX/UI+Diseño+🎨" alt="Typing SVG" />
-</p>
-
----
 
 ### 🛠️ Stack Tecnológico:
 <p align="center">
